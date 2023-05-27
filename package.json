@@ -12,5 +12,6 @@
     "node"
   ],
   "author": "Roberto Bravo <robertbass@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
