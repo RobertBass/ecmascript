@@ -16,7 +16,6 @@ for (let obj in array2) {
       console.log(`[${obj} : ${Object.values(array2)[i]}]${obj.length >= i ? "," : ""}`);
     }
   }
-  
 }
 
 console.log('}');
