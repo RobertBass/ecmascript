@@ -1,7 +1,7 @@
 const array1 = [5, 4, 3, 2, 1];
 
-for (let numero of array1) {
-  console.log(numero);
+for (let number of array1) {
+  console.log(number);
 }
 
 //=================================================================

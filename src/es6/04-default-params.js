@@ -1,4 +1,4 @@
-function newUser (name, age, coungtry){
+function newUser (name, age, country){
     var name = name || 'Roberto';
     var age = age || 34;
     var country = country || 'EC';
